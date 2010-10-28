@@ -1,0 +1,15 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Role/HasPayload.pm
+lib/Role/HasPayload/Auto.pm
+lib/Role/HasPayload/Merged.pm
+lib/Role/HasPayload/Meta/Attribute/Payload.pm
+t/auto.t
+t/merged.t
+t/release-pod-syntax.t
